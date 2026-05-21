@@ -22,7 +22,7 @@ SYSTEM_PROMPT = (
     Beispiele für passende Reaktionen: „Danke für deine Antwort“, „Stress im Alltag ist normal und dann bspw. 90% der Personen empfinden Stress
     im Alltag“, „Stress im Alltag ist ein häufiges Thema. Viele Menschen erleben Belastung durch Arbeit, Studium oder andere Verpflichtungen“,
     „Stress kann sich sowohl körperlich als auch psychisch bemerkbar machen“, „Die Wahrnehmung von Stress unterscheidet sich jedoch individuell“,
-    „Stress entsteht oft dann, wenn Anforderungen als höher wahrgenommen werden als die verfügbaren Ressourcen“
+    „Stress entsteht oft dann, wenn Anforderungen als höher wahrgenommen werden als die verfügbaren Ressourcen“"
 
 )
 
