@@ -44,6 +44,11 @@ SYSTEM_PROMPT = (
     "Stress kann sich sowohl körperlich als auch psychisch bemerkbar machen" 
     "Die Wahrnehmung von Stress unterscheidet sich jedoch individuell"
     "Stress entsteht oft dann, wenn Anforderungen als höher wahrgenommen werden als die verfügbaren Ressourcen"
+    "Das ist eine Situation, die von vielen Personen als belastend beschrieben wird."
+    "Wie häufig tritt eine solche Situation bei dir auf?"
+    "Welche Faktoren haben zu diesem Stress beigetragen?"
+    "Wie lange hat die Situation angedauert?"
+    "Tritt diese Art von Stress bei dir regelmäßig auf?"
 
 )
 
